@@ -62,7 +62,7 @@ Na Drogazin, reconhecemos que a qualidade e a confiabilidade dos produtos que of
 
  Página da transportadora da Drogazin:
 
-- 1. Compromisso com a Entrega Segura:
+ 1. Compromisso com a Entrega Segura:
 Na Drogazin, a segurança dos produtos e a integridade das entregas são prioridades máximas. Nossa página da Transportadora destaca como trabalhamos com parceiros logísticos de confiança, que compartilham nosso compromisso de entregar os produtos farmacêuticos e de cuidados pessoais de maneira segura e eficiente.
 
 2. Rastreamento em Tempo Real:
@@ -87,7 +87,7 @@ Na Drogazin, acreditamos que a qualidade dos produtos se estende até a forma co
 
 Página de produtos da Drogazin:
 
-- 1. Explorando a Diversidade:
+1. Explorando a Diversidade:
 Navegue por nossa vasta seleção de produtos, que abrange desde medicamentos de venda livre até produtos de beleza, cuidados com a pele, suplementos nutricionais e muito mais. A diversidade de nossa oferta garante que você tenha acesso a uma ampla gama de soluções para suas necessidades específicas.
 
 2. Informações Detalhadas:
