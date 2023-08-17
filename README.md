@@ -152,12 +152,12 @@ cd Drogazin-api
 ---
  composer update
 ```
-
+```
 4. Copiando o env. do exemplo
 ---
 copy .env.example .env
 ```
-
+```
 5. Acessar o Visual Studio Code
 ---
 code .
