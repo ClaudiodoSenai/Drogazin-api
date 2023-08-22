@@ -14,7 +14,7 @@ class Fornecedores extends Model
         'email',
         'contato',
         'cep',
-        'inscriçao municipal',
+        'inscriçao_municipal',
         'país',
         'cnpj',
         'bairro',

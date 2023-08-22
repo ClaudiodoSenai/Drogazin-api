@@ -18,7 +18,7 @@ return new class extends Migration
             $table->string('email', 100)->unique()->nullable(false);
             $table->string('contato', 15)->nullable(true);
             $table->string('cep', 8)->nullable(false);
-            $table->string('inscriçao municipal',11 )->unique()->nullable(false);
+            $table->string('inscriçao_municipal',11 )->unique()->nullable(false);
             $table->string('país',50 )->nullable(false);
             $table->string('cnpj', 14)->unique()->nullable(false);
             $table->string('bairro', 40)->nullable(false);
