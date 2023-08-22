@@ -1,5 +1,5 @@
 # Drogazin- Transportadora:
-![Trasnportadora](https://github.com/ClaudiodoSenai/Drogazin-api/assets/140071695/7fb4d302-8f72-41e2-9d4b-84f23e062296)
+![Trasnportadora](https://github.com/ClaudiodoSenai/Drogazin-api/blob/main/259154594-7fb4d302-8f72-41e2-9d4b-84f23e062296.png)
 
 # Nessa página contem os campos:
 
