@@ -1,6 +1,6 @@
 # Drogazin- Fornecedor:
 
-![Fornecedor](https://github.com/ClaudiodoSenai/Drogazin-api/blob/main/259150842-2a6cd0b3-d312-4004-a0b2-6406567e0a15.png)
+![Fornecedor](https://github.com/ClaudiodoSenai/Drogazin-api\259150842-2a6cd0b3-d312-4004-a0b2-6406567e0a15.png)
 
 # Nessa página contém os campos:
 
